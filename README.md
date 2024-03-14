@@ -12,10 +12,27 @@
 
 
 
----
 
-### :man_technologist: About Me :
-I am a Software Engineer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 
 ---
+## Hello, I'm Tiago 👋
+I'm a 21-year programmer from Portugal.
+
+- 🔭 I’m currently a software engineer student
+- ⚡ Fun Fact: I can write software imagine that.
+
+**Languages and Tools:**  
+
+
+
+<a href="https://github.com/WhyN0t101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyN0t101&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/WhyN0t101">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhyN0t101&show_icons=true&theme=dark&line_height=27" alt="WhyNot's github stats"/>
+</a>
+
+<img align="center" src="snake.svg" />
+
+
