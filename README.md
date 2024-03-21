@@ -6,6 +6,9 @@
   <a href="[your-twitter-URL](https://twitter.com/tiagoavp)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="https://gist.github.com/WhyN0t101">
+    <img src="![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)" alt="Twitter Badge"/>
+  </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?WhyN0t101&style=flat-square&color=blue" alt=""/>
