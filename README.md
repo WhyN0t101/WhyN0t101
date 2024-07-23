@@ -3,9 +3,6 @@
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/tiago-pereira-4763ab252/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/tiagoavp)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
     <a href="https://gist.github.com/WhyN0t101">
     <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt=""/>
   </a>
