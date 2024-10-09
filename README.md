@@ -19,9 +19,9 @@
 ## Hello, I'm Tiago 👋
 I'm a 21-year programmer from Portugal.
 
-- 🔭 I’m currently an CyberSecurity student at IPL.
-- ⚡ Fun Fact: I can write software imagine that.
-- Graduated in Software Engineering.
+- 🔭 I’m currently a CyberSecurity student at IPL.
+- ⚡Graduated in Software Engineering.
+
 **Languages and Tools:**  
 
 
