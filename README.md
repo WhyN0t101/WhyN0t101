@@ -20,7 +20,7 @@
 I'm a 21-year programmer from Portugal.
 
 - 🔭 I’m currently a CyberSecurity student at IPL.
-- ⚡Graduated in Software Engineering.
+- ⚡Graduated in Computer Engineering.
 
 **Languages and Tools:**  
 
