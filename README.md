@@ -1,38 +1,46 @@
-
-<div id="badges" align= "center">
+<div align="center">
+  <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/tiago-pereira-4763ab252/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://gist.github.com/WhyN0t101">
-    <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt=""/>
+  <a href="https://gist.github.com/WhyN0t101">
+    <img src="https://img.shields.io/badge/Hyperledger-Explore-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger Badge"/>
   </a>
 </div>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?WhyN0t101&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=WhyN0t101&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
+# Welcome to the Matrix, I'm Tiago 👋
 
+I'm a 22-year programmer from Portugal navigating the digital matrix.
 
-
-
+- 💾 **CyberSecurity Student**  
+- ⚡ **Computer Engineer**
+- 🛡️ ⛓️ **Cybersecurity & Blockchain Enthusiast**
 
 ---
-## Hello, I'm Tiago 👋
-I'm a 22-year programmer from Portugal.
 
-- 🔭 Currently a CyberSecurity student at IPL.
-- ⚡Graduated in Computer Engineering.
+## About Me
 
-**Languages and Tools:**  
+I thrive in the matrix of code and cybersecurity. Whether it’s debugging code, exploring the latest tech, or diving deep into blockchain, I’m always up for a challenge. My journey is all about bending the rules of the system—just like in the movies!
 
+---
 
+## Tech Stack
 
-<a href="https://github.com/WhyN0t101">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhyN0t101&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/WhyN0t101">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhyN0t101&show_icons=true&theme=dark&line_height=27" alt="WhyNot's github stats"/>
-</a>
+- **Programming Languages:** JavaScript, Python, C/C++, C#, Java, Solidity, ASP.NET
+- **Web Development:** Node.js, Three.js, Web Services, Web Design
+- **Cybersecurity & Networking:** Cybersecurity, Network Security, Network Administration, SDN, GNS3, Advanced Networking, ISP Architecture
+- **Cloud & Virtualization:** Kubernetes, Container Orchestration, Cloud Computing, Virtualization, Linux System Administration, System Administration
+- **Data & Analysis:** SQL, Data Analysis, SPARQL
+- **Other Tools:** Blender, Maven, Spring Boot, Machine Learning, Internet of Things (IoT), Middleware
 
-<img align="center" src="snake.svg" />
+---
 
+## GitHub Stats
+
+![WhyN0t101's Stats](https://github-readme-stats.vercel.app/api?username=WhyN0t101&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![WhyN0t101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhyN0t101&theme=tokyonight&hide_border=true)
 
