@@ -42,5 +42,4 @@ I thrive in the matrix of code and cybersecurity. Whether it’s debugging code,
 ## GitHub Stats
 
 ![WhyN0t101's Stats](https://github-readme-stats.vercel.app/api?username=WhyN0t101&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![WhyN0t101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WhyN0t101&theme=tokyonight&hide_border=true)
-
+![WhyN0t101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyN0t101&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
