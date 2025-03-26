@@ -14,7 +14,7 @@
 
 # Welcome to the Matrix, I'm Tiago 👋
 
-I'm a 22-year programmer from Portugal navigating the digital matrix.
+I'm a 22-year programmer from Portugal.
 
 - 💾 **CyberSecurity Student**  
 - ⚡ **Computer Engineer**
@@ -24,7 +24,7 @@ I'm a 22-year programmer from Portugal navigating the digital matrix.
 
 ## About Me
 
-I thrive in the matrix of code and cybersecurity. Whether it’s debugging code, exploring the latest tech, or diving deep into blockchain, I’m always up for a challenge. My journey is all about bending the rules of the system—just like in the movies!
+I thrive in the of code and cybersecurity. Whether it’s debugging code, exploring the latest tech, or diving deep into blockchain.
 
 ---
 
