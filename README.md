@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=WhyN0t101&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-# Welcome to the Matrix, I'm Tiago 👋
+# Welcome! I'm Tiago 👋
 
 I'm a 22-year programmer from Portugal.
 
@@ -24,7 +24,7 @@ I'm a 22-year programmer from Portugal.
 
 ## About Me
 
-I thrive in the of code and cybersecurity. Whether it’s debugging code, exploring the latest tech, or diving deep into blockchain.
+I thrive in code and cybersecurity, whether debugging code, exploring the latest tech, or diving deep into blockchain.
 
 ---
 
