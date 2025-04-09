@@ -31,10 +31,10 @@ I thrive in code and cybersecurity, whether debugging code, exploring the latest
 ## Tech Stack
 
 - **Programming Languages:** JavaScript, Python, C/C++, C#, Java, Solidity, ASP.NET
-- **Web Development:** Node.js, Three.js, Web Services, Web Design
-- **Cybersecurity & Networking:** Cybersecurity, Network Security, Network Administration, SDN, GNS3, Advanced Networking, ISP Architecture
+- **Web Development:** Node.js, Three.js, Web Services
+- **Cybersecurity & Networking:** Network Security, Network Administration, SDN, GNS3, Advanced Networking, ISP Architecture
 - **Cloud & Virtualization:** Kubernetes, Container Orchestration, Cloud Computing, Virtualization, Linux System Administration, System Administration
-- **Data & Analysis:** SQL, Data Analysis, SPARQL
+- **Data & Analysis:** SQL, SPARQL
 - **Other Tools:** Blender, Maven, Spring Boot, Machine Learning, Internet of Things (IoT), Middleware
 
 ---
