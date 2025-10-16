@@ -12,31 +12,27 @@
   <img src="https://komarev.com/ghpvc/?username=WhyN0t101&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-# Welcome! I'm Tiago 👋
+# Welcome! I'm Tiago 
 
-I'm a 22-year programmer from Portugal.
+I'm a 22-year-old engineer from Portugal.
 
-- 💾 **CyberSecurity Student**  
-- ⚡ **Computer Engineer**
-- 🛡️ ⛓️ **Cybersecurity & Blockchain Enthusiast**
+- 💾  **Computer Engineer**
+- 🛡️ ⛓️ **Cybersecurity & Digital Forensic**
 
 ---
 
 ## About Me
 
-I thrive in code and cybersecurity, whether debugging code, exploring the latest tech, or diving deep into blockchain.
-
+I’m passionate about security and exploring emerging technologies. Whether I’m debugging complex code, experimenting with blockchain, or researching cybersecurity challenges, I thrive at the intersection of software engineering and security.
 ---
 
 ## Tech Stack
 
-- **Programming Languages:** JavaScript, Python, C/C++, C#, Java, Solidity, ASP.NET
-- **Web Development:** Node.js, Three.js, Web Services
-- **Cybersecurity & Networking:** Network Security, Network Administration, SDN, GNS3, Advanced Networking, ISP Architecture
-- **Cloud & Virtualization:** Kubernetes, Container Orchestration, Cloud Computing, Virtualization, Linux System Administration, System Administration
-- **Data & Analysis:** SQL, SPARQL
-- **Other Tools:** Blender, Maven, Spring Boot, Machine Learning, Internet of Things (IoT), Middleware
-
+- **Programming Languages:** JavaScript, Python, C#, Java, Solidity, Rust
+- **Frameworks & Libraries:** Spring Boot, Maven, .NET, Vue, Flask
+- **Cloud, Infrastructure & Virtualization:** Kubernetes, Cloud Computing (various providers), Virtualization, Linux System Administration, General System Administration
+- **Networking & Security:** Network Security, Network Administration, Software-Defined Networking (SDN), GNS3, Advanced Networking, ISP Architecture
+- **Tools:** Postman, RapidMiner, Trello, Swagger, Git
 ---
 
 ## GitHub Stats
