@@ -30,8 +30,3 @@ I'm a 23-year-old engineer from Portugal.
 - **Networking & Security:** Network Security, Network Administration, Software-Defined Networking (SDN), GNS3, ISP Architecture
 - **Tools:** Postman, RapidMiner, Trello, Swagger, Git
 ---
-
-## GitHub Stats
-
-![WhyN0t101's Stats](https://github-readme-stats.vercel.app/api?username=WhyN0t101&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![WhyN0t101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhyN0t101&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
