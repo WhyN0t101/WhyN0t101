@@ -14,24 +14,20 @@
 
 # Welcome! I'm Tiago 
 
-I'm a 22-year-old engineer from Portugal.
+I'm a 23-year-old engineer from Portugal.
 
 - 💾  **Computer Engineer**
-- 🛡️ ⛓️ **Cybersecurity & Digital Forensic**
+- 🛡️ ⛓️ **Msc in Cybersecurity & Digital Forensic**
 
 ---
 
-## About Me
-
-I’m passionate about security and exploring emerging technologies. Whether I’m debugging complex code, experimenting with blockchain, or researching cybersecurity challenges, I thrive at the intersection of software engineering and security.
----
 
 ## Tech Stack
 
 - **Programming Languages:** JavaScript, Python, C#, Java, Solidity, Rust
 - **Frameworks & Libraries:** Spring Boot, Maven, .NET, Vue, Flask
-- **Cloud, Infrastructure & Virtualization:** Kubernetes, Cloud Computing (various providers), Virtualization, Linux System Administration, General System Administration
-- **Networking & Security:** Network Security, Network Administration, Software-Defined Networking (SDN), GNS3, Advanced Networking, ISP Architecture
+- **Cloud, Infrastructure & Virtualization:** Kubernetes, Cloud Computing, Virtualization, System Administration
+- **Networking & Security:** Network Security, Network Administration, Software-Defined Networking (SDN), GNS3, ISP Architecture
 - **Tools:** Postman, RapidMiner, Trello, Swagger, Git
 ---
 
