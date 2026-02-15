@@ -14,10 +14,10 @@
 
 # Welcome! I'm Tiago 
 
-I'm a 23-year-old engineer from Portugal.
+23-year-old engineer from Portugal.
 
-- 💾  **Computer Engineer**
-- 🛡️ ⛓️ **Msc in Cybersecurity & Digital Forensic**
+-  **Computer Engineer**
+-  **Msc in Cybersecurity & Digital Forensic**
 
 ---
 
