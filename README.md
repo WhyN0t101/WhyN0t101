@@ -7,7 +7,6 @@
 <br/><br/>
 
 <a href="https://whyn0t101.github.io/"><img src="https://img.shields.io/badge/portfolio-whyn0t101.github.io-0b0712?style=for-the-badge&labelColor=030106&color=2e1065" alt="Portfolio"/></a>
-<a href="https://gist.github.com/WhyN0t101"><img src="https://img.shields.io/badge/gists-WhyN0t101-0b0712?style=for-the-badge&logo=github&logoColor=c4b5fd&labelColor=030106&color=2e1065" alt="Gists"/></a>
 
 </div>
 
