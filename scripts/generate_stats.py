@@ -21,6 +21,8 @@ LOGIN = os.environ.get("PROFILE_LOGIN", "WhyN0t101")
 
 # Languages that are build/markup noise rather than something written by hand.
 IGNORED_LANGUAGES = {"HTML", "CSS", "SCSS", "Makefile", "Dockerfile", "Batchfile", "ShaderLab", "HLSL", "GLSL", "Procfile"}
+# Repos left out of the language card: personal tooling that would skew it.
+IGNORED_REPOS = {"optimizations_tools"}
 TOP_LANGUAGES = 6
 # Site palette: purple ramp first, then the category accents (sec / net / dev).
 PALETTE = ["#d8b4fe", "#a855f7", "#60a5fa", "#4ade80", "#f87171", "#7c3aed", "#9a92ad"]
@@ -45,6 +47,7 @@ query($login: String!, $cursor: String) {
       totalCount
       pageInfo { hasNextPage endCursor }
       nodes {
+        name
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
@@ -113,6 +116,8 @@ def aggregate(pages: list[dict]) -> Stats:
     for page in pages:
         for repo in page["repositories"]["nodes"]:
             stats.stars += repo["stargazerCount"]
+            if repo["name"] in IGNORED_REPOS:
+                continue
             for edge in repo["languages"]["edges"]:
                 name = edge["node"]["name"]
                 if name in IGNORED_LANGUAGES:

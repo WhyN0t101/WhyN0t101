@@ -8,8 +8,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import generate_stats as gs  # noqa: E402
 
 
-def repo(stars: int, langs: dict[str, int]) -> dict:
+def repo(stars: int, langs: dict[str, int], name: str = "project") -> dict:
     return {
+        "name": name,
         "stargazerCount": stars,
         "languages": {"edges": [{"size": size, "node": {"name": name}} for name, size in langs.items()]},
     }
@@ -51,6 +52,11 @@ class AggregateTest(unittest.TestCase):
         self.assertEqual(stats.languages, {"Java": 125, "Python": 50})
         self.assertEqual(stats.commits_year, 120)  # public + private (restricted)
         self.assertEqual(stats.weekly, [3, 0])
+
+    def test_ignored_repos_count_stars_but_not_languages(self):
+        stats = gs.aggregate([page([repo(1, {"Java": 10}), repo(3, {"PowerShell": 999}, name="optimizations_tools")])])
+        self.assertEqual(stats.stars, 4)
+        self.assertEqual(stats.languages, {"Java": 10})
 
 
 class TopLanguagesTest(unittest.TestCase):
