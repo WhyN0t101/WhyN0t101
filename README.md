@@ -73,7 +73,6 @@ I work across offense, defence and the infrastructure underneath both: malware a
       <img src="https://img.shields.io/badge/BGP-0b0712?style=flat-square" alt="BGP"/>
       <img src="https://img.shields.io/badge/OSPF-0b0712?style=flat-square" alt="OSPF"/>
       <img src="https://img.shields.io/badge/MPLS_L3VPN-0b0712?style=flat-square" alt="MPLS L3VPN"/>
-      <img src="https://img.shields.io/badge/IPv6-0b0712?style=flat-square" alt="IPv6"/>
       <img src="https://img.shields.io/badge/WireGuard-0b0712?style=flat-square&logo=wireguard&logoColor=c4b5fd" alt="WireGuard"/>
       <img src="https://img.shields.io/badge/SDN-0b0712?style=flat-square" alt="SDN"/>
     </td>
