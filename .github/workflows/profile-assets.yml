@@ -36,6 +36,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python scripts/generate_stats.py
 
+      - name: Profile card
+        run: python scripts/make_profile.py
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
