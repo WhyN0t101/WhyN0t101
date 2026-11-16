@@ -28,19 +28,19 @@
   <rect x="20" y="78" width="455" height="10" rx="5" fill="#a855f7" opacity=".1"/>
   <clipPath id="bar"><rect x="20" y="78" width="455" height="10" rx="5"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect class="seg" x="20.00" y="78" width="191.20" height="10" fill="#d8b4fe" style="animation-delay:0.10s"/>
-    <rect class="seg" x="210.70" y="78" width="120.51" height="10" fill="#a855f7" style="animation-delay:0.20s"/>
-    <rect class="seg" x="330.72" y="78" width="70.17" height="10" fill="#60a5fa" style="animation-delay:0.30s"/>
-    <rect class="seg" x="400.39" y="78" width="30.91" height="10" fill="#4ade80" style="animation-delay:0.40s"/>
-    <rect class="seg" x="430.80" y="78" width="26.14" height="10" fill="#f87171" style="animation-delay:0.50s"/>
-    <rect class="seg" x="456.44" y="78" width="6.32" height="10" fill="#7c3aed" style="animation-delay:0.60s"/>
-    <rect class="seg" x="462.25" y="78" width="13.25" height="10" fill="#9a92ad" style="animation-delay:0.70s"/>
+    <rect class="seg" x="20.00" y="78" width="193.07" height="10" fill="#d8b4fe" style="animation-delay:0.10s"/>
+    <rect class="seg" x="212.57" y="78" width="121.69" height="10" fill="#a855f7" style="animation-delay:0.20s"/>
+    <rect class="seg" x="333.76" y="78" width="70.85" height="10" fill="#60a5fa" style="animation-delay:0.30s"/>
+    <rect class="seg" x="404.11" y="78" width="31.33" height="10" fill="#4ade80" style="animation-delay:0.40s"/>
+    <rect class="seg" x="434.95" y="78" width="23.49" height="10" fill="#f87171" style="animation-delay:0.50s"/>
+    <rect class="seg" x="457.94" y="78" width="6.37" height="10" fill="#7c3aed" style="animation-delay:0.60s"/>
+    <rect class="seg" x="463.81" y="78" width="11.69" height="10" fill="#9a92ad" style="animation-delay:0.70s"/>
   </g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.20s"><rect x="20" y="117" width="9" height="9" rx="2" fill="#d8b4fe"/><text x="37" y="126" class="txt">Java</text><text x="230" y="126" class="dim" text-anchor="end">41.9%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.28s"><rect x="252" y="117" width="9" height="9" rx="2" fill="#a855f7"/><text x="269" y="126" class="txt">C#</text><text x="462" y="126" class="dim" text-anchor="end">26.4%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.36s"><rect x="20" y="147" width="9" height="9" rx="2" fill="#60a5fa"/><text x="37" y="156" class="txt">Vue</text><text x="230" y="156" class="dim" text-anchor="end">15.3%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.44s"><rect x="252" y="147" width="9" height="9" rx="2" fill="#4ade80"/><text x="269" y="156" class="txt">Python</text><text x="462" y="156" class="dim" text-anchor="end">6.7%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.52s"><rect x="20" y="177" width="9" height="9" rx="2" fill="#f87171"/><text x="37" y="186" class="txt">TypeScript</text><text x="230" y="186" class="dim" text-anchor="end">5.6%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.20s"><rect x="20" y="117" width="9" height="9" rx="2" fill="#d8b4fe"/><text x="37" y="126" class="txt">Java</text><text x="230" y="126" class="dim" text-anchor="end">42.3%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.28s"><rect x="252" y="117" width="9" height="9" rx="2" fill="#a855f7"/><text x="269" y="126" class="txt">C#</text><text x="462" y="126" class="dim" text-anchor="end">26.6%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.36s"><rect x="20" y="147" width="9" height="9" rx="2" fill="#60a5fa"/><text x="37" y="156" class="txt">Vue</text><text x="230" y="156" class="dim" text-anchor="end">15.5%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.44s"><rect x="252" y="147" width="9" height="9" rx="2" fill="#4ade80"/><text x="269" y="156" class="txt">Python</text><text x="462" y="156" class="dim" text-anchor="end">6.8%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.52s"><rect x="20" y="177" width="9" height="9" rx="2" fill="#f87171"/><text x="37" y="186" class="txt">TypeScript</text><text x="230" y="186" class="dim" text-anchor="end">5.1%</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:0.60s"><rect x="252" y="177" width="9" height="9" rx="2" fill="#7c3aed"/><text x="269" y="186" class="txt">Rust</text><text x="462" y="186" class="dim" text-anchor="end">1.3%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.68s"><rect x="20" y="207" width="9" height="9" rx="2" fill="#9a92ad"/><text x="37" y="216" class="txt">Other</text><text x="230" y="216" class="dim" text-anchor="end">2.8%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.68s"><rect x="20" y="207" width="9" height="9" rx="2" fill="#9a92ad"/><text x="37" y="216" class="txt">Other</text><text x="230" y="216" class="dim" text-anchor="end">2.5%</text></g>
 </svg>
