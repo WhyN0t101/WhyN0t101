@@ -318,12 +318,12 @@
   <circle cx="54" cy="18" r="5" fill="#28c840" opacity=".85"/>
   <text x="72" y="22.5" class="mono faint" font-size="12">tiago@<tspan class="soft">whyn0t101</tspan>: ~/stats</text>
   <text x="20" y="62" class="mono" font-size="13"><tspan class="faint">$ </tspan><tspan class="txt">gh stats --user whyn0t101</tspan></text>
-  <g class="row mono" font-size="12.5" style="animation-delay:7.87s"><text x="20" y="90" class="dim">contributions</text><text x="134" y="90" class="faint">last year</text><text x="248" y="90" class="soft" text-anchor="end" font-weight="600">309</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:7.95s"><text x="20" y="109" class="dim">commits</text><text x="134" y="109" class="faint">last year</text><text x="248" y="109" class="soft" text-anchor="end" font-weight="600">305</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:7.87s"><text x="20" y="90" class="dim">contributions</text><text x="134" y="90" class="faint">last year</text><text x="248" y="90" class="soft" text-anchor="end" font-weight="600">319</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:7.95s"><text x="20" y="109" class="dim">commits</text><text x="134" y="109" class="faint">last year</text><text x="248" y="109" class="soft" text-anchor="end" font-weight="600">314</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:8.03s"><text x="20" y="128" class="dim">pull requests</text><text x="134" y="128" class="faint">all time</text><text x="248" y="128" class="soft" text-anchor="end" font-weight="600">3</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:8.11s"><text x="20" y="147" class="dim">issues</text><text x="134" y="147" class="faint">all time</text><text x="248" y="147" class="soft" text-anchor="end" font-weight="600">0</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:8.19s"><text x="20" y="166" class="dim">contributed to</text><text x="134" y="166" class="faint">repos</text><text x="248" y="166" class="soft" text-anchor="end" font-weight="600">1</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.27s"><text x="20" y="185" class="dim">public repos</text><text x="134" y="185" class="faint">owned</text><text x="248" y="185" class="soft" text-anchor="end" font-weight="600">11</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.27s"><text x="20" y="185" class="dim">public repos</text><text x="134" y="185" class="faint">owned</text><text x="248" y="185" class="soft" text-anchor="end" font-weight="600">12</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:8.35s"><text x="20" y="204" class="dim">stars</text><text x="134" y="204" class="faint">earned</text><text x="248" y="204" class="soft" text-anchor="end" font-weight="600">2</text></g>
   <text x="274" y="72" class="mono faint" font-size="11">activity · 52 weeks</text>
   <line x1="274" y1="196" x2="475" y2="196" stroke="#a855f7" stroke-opacity=".25"/>
@@ -378,7 +378,7 @@
   <rect class="bar" x="460.65" y="194.00" width="2.69" height="2.00" rx="1" fill="#a855f7" opacity="0.18" style="animation-delay:8.59s"/>
   <rect class="bar" x="464.53" y="133.22" width="2.69" height="62.78" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:8.60s"/>
   <rect class="bar" x="468.42" y="90.00" width="2.69" height="106.00" rx="1" fill="#d8b4fe" opacity="0.9" style="animation-delay:8.62s"/>
-  <rect class="bar" x="472.31" y="171.30" width="2.69" height="24.70" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:8.63s"/>
+  <rect class="bar" x="472.31" y="161.01" width="2.69" height="34.99" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:8.63s"/>
   <text x="475" y="212" class="mono faint" font-size="10.5" text-anchor="end">peak 103/wk</text>
 </svg>
 
@@ -412,21 +412,21 @@
   <rect x="20" y="78" width="455" height="10" rx="5" fill="#a855f7" opacity=".1"/>
   <clipPath id="l-bar"><rect x="20" y="78" width="455" height="10" rx="5"/></clipPath>
   <g clip-path="url(#l-bar)">
-    <rect class="seg" x="20.00" y="78" width="191.76" height="10" fill="#d8b4fe" style="animation-delay:7.82s"/>
-    <rect class="seg" x="211.26" y="78" width="120.86" height="10" fill="#a855f7" style="animation-delay:7.92s"/>
-    <rect class="seg" x="331.61" y="78" width="70.37" height="10" fill="#60a5fa" style="animation-delay:8.02s"/>
-    <rect class="seg" x="401.49" y="78" width="34.23" height="10" fill="#4ade80" style="animation-delay:8.12s"/>
-    <rect class="seg" x="435.22" y="78" width="23.34" height="10" fill="#f87171" style="animation-delay:8.22s"/>
-    <rect class="seg" x="458.06" y="78" width="6.33" height="10" fill="#7c3aed" style="animation-delay:8.32s"/>
-    <rect class="seg" x="463.89" y="78" width="11.61" height="10" fill="#9a92ad" style="animation-delay:8.42s"/>
+    <rect class="seg" x="20.00" y="78" width="172.40" height="10" fill="#d8b4fe" style="animation-delay:7.82s"/>
+    <rect class="seg" x="191.90" y="78" width="108.68" height="10" fill="#a855f7" style="animation-delay:7.92s"/>
+    <rect class="seg" x="300.08" y="78" width="63.30" height="10" fill="#60a5fa" style="animation-delay:8.02s"/>
+    <rect class="seg" x="362.88" y="78" width="62.27" height="10" fill="#4ade80" style="animation-delay:8.12s"/>
+    <rect class="seg" x="424.65" y="78" width="34.91" height="10" fill="#f87171" style="animation-delay:8.22s"/>
+    <rect class="seg" x="459.07" y="78" width="5.74" height="10" fill="#7c3aed" style="animation-delay:8.32s"/>
+    <rect class="seg" x="464.31" y="78" width="11.19" height="10" fill="#9a92ad" style="animation-delay:8.42s"/>
   </g>
-  <g class="row mono" font-size="12.5" style="animation-delay:7.92s"><rect x="20" y="117" width="9" height="9" rx="2" fill="#d8b4fe"/><text x="37" y="126" class="txt">Java</text><text x="230" y="126" class="dim" text-anchor="end">42.0%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.00s"><rect x="252" y="117" width="9" height="9" rx="2" fill="#a855f7"/><text x="269" y="126" class="txt">C#</text><text x="462" y="126" class="dim" text-anchor="end">26.5%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.08s"><rect x="20" y="147" width="9" height="9" rx="2" fill="#60a5fa"/><text x="37" y="156" class="txt">Vue</text><text x="230" y="156" class="dim" text-anchor="end">15.4%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.16s"><rect x="252" y="147" width="9" height="9" rx="2" fill="#4ade80"/><text x="269" y="156" class="txt">Python</text><text x="462" y="156" class="dim" text-anchor="end">7.4%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.24s"><rect x="20" y="177" width="9" height="9" rx="2" fill="#f87171"/><text x="37" y="186" class="txt">TypeScript</text><text x="230" y="186" class="dim" text-anchor="end">5.0%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.32s"><rect x="252" y="177" width="9" height="9" rx="2" fill="#7c3aed"/><text x="269" y="186" class="txt">Rust</text><text x="462" y="186" class="dim" text-anchor="end">1.3%</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:8.40s"><rect x="20" y="207" width="9" height="9" rx="2" fill="#9a92ad"/><text x="37" y="216" class="txt">Other</text><text x="230" y="216" class="dim" text-anchor="end">2.4%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:7.92s"><rect x="20" y="117" width="9" height="9" rx="2" fill="#d8b4fe"/><text x="37" y="126" class="txt">Java</text><text x="230" y="126" class="dim" text-anchor="end">37.8%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.00s"><rect x="252" y="117" width="9" height="9" rx="2" fill="#a855f7"/><text x="269" y="126" class="txt">C#</text><text x="462" y="126" class="dim" text-anchor="end">23.8%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.08s"><rect x="20" y="147" width="9" height="9" rx="2" fill="#60a5fa"/><text x="37" y="156" class="txt">Vue</text><text x="230" y="156" class="dim" text-anchor="end">13.8%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.16s"><rect x="252" y="147" width="9" height="9" rx="2" fill="#4ade80"/><text x="269" y="156" class="txt">Python</text><text x="462" y="156" class="dim" text-anchor="end">13.6%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.24s"><rect x="20" y="177" width="9" height="9" rx="2" fill="#f87171"/><text x="37" y="186" class="txt">TypeScript</text><text x="230" y="186" class="dim" text-anchor="end">7.6%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.32s"><rect x="252" y="177" width="9" height="9" rx="2" fill="#7c3aed"/><text x="269" y="186" class="txt">Rust</text><text x="462" y="186" class="dim" text-anchor="end">1.2%</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:8.40s"><rect x="20" y="207" width="9" height="9" rx="2" fill="#9a92ad"/><text x="37" y="216" class="txt">Other</text><text x="230" y="216" class="dim" text-anchor="end">2.3%</text></g>
 </svg>
 
   <text x="600.0" y="1298.909090909091" class="mono faint p-in" font-size="12.5" text-anchor="middle" style="--t:8.92s">stats refresh daily via GitHub Actions  ·  <tspan class="soft">whyn0t101.github.io</tspan></text>

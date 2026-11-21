@@ -25,12 +25,12 @@
   <circle cx="54" cy="18" r="5" fill="#28c840" opacity=".85"/>
   <text x="72" y="22.5" class="mono faint" font-size="12">tiago@<tspan class="soft">whyn0t101</tspan>: ~/stats</text>
   <text x="20" y="62" class="mono" font-size="13"><tspan class="faint">$ </tspan><tspan class="txt">gh stats --user whyn0t101</tspan></text>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.15s"><text x="20" y="90" class="dim">contributions</text><text x="134" y="90" class="faint">last year</text><text x="248" y="90" class="soft" text-anchor="end" font-weight="600">309</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.23s"><text x="20" y="109" class="dim">commits</text><text x="134" y="109" class="faint">last year</text><text x="248" y="109" class="soft" text-anchor="end" font-weight="600">305</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.15s"><text x="20" y="90" class="dim">contributions</text><text x="134" y="90" class="faint">last year</text><text x="248" y="90" class="soft" text-anchor="end" font-weight="600">319</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.23s"><text x="20" y="109" class="dim">commits</text><text x="134" y="109" class="faint">last year</text><text x="248" y="109" class="soft" text-anchor="end" font-weight="600">314</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:0.31s"><text x="20" y="128" class="dim">pull requests</text><text x="134" y="128" class="faint">all time</text><text x="248" y="128" class="soft" text-anchor="end" font-weight="600">3</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:0.39s"><text x="20" y="147" class="dim">issues</text><text x="134" y="147" class="faint">all time</text><text x="248" y="147" class="soft" text-anchor="end" font-weight="600">0</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:0.47s"><text x="20" y="166" class="dim">contributed to</text><text x="134" y="166" class="faint">repos</text><text x="248" y="166" class="soft" text-anchor="end" font-weight="600">1</text></g>
-  <g class="row mono" font-size="12.5" style="animation-delay:0.55s"><text x="20" y="185" class="dim">public repos</text><text x="134" y="185" class="faint">owned</text><text x="248" y="185" class="soft" text-anchor="end" font-weight="600">11</text></g>
+  <g class="row mono" font-size="12.5" style="animation-delay:0.55s"><text x="20" y="185" class="dim">public repos</text><text x="134" y="185" class="faint">owned</text><text x="248" y="185" class="soft" text-anchor="end" font-weight="600">12</text></g>
   <g class="row mono" font-size="12.5" style="animation-delay:0.63s"><text x="20" y="204" class="dim">stars</text><text x="134" y="204" class="faint">earned</text><text x="248" y="204" class="soft" text-anchor="end" font-weight="600">2</text></g>
   <text x="274" y="72" class="mono faint" font-size="11">activity · 52 weeks</text>
   <line x1="274" y1="196" x2="475" y2="196" stroke="#a855f7" stroke-opacity=".25"/>
@@ -85,6 +85,6 @@
   <rect class="bar" x="460.65" y="194.00" width="2.69" height="2.00" rx="1" fill="#a855f7" opacity="0.18" style="animation-delay:0.876s"/>
   <rect class="bar" x="464.53" y="133.22" width="2.69" height="62.78" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:0.888s"/>
   <rect class="bar" x="468.42" y="90.00" width="2.69" height="106.00" rx="1" fill="#d8b4fe" opacity="0.9" style="animation-delay:0.900s"/>
-  <rect class="bar" x="472.31" y="171.30" width="2.69" height="24.70" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:0.912s"/>
+  <rect class="bar" x="472.31" y="161.01" width="2.69" height="34.99" rx="1" fill="#a855f7" opacity="0.9" style="animation-delay:0.912s"/>
   <text x="475" y="212" class="mono faint" font-size="10.5" text-anchor="end">peak 103/wk</text>
 </svg>
